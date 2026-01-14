@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Sudi 👋
 
-<!--
-**sudiptastripathy/sudiptastripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Manager building production AI systems with focus on agentic workflows and cost-efficient reasoning.
 
-Here are some ideas to get you started:
+## What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on shipping AI products that solve real problems - not just demos. Currently exploring:
+- Multi-agent orchestration and coordination
+- Cost vs latency trade-offs in production LLM systems
+- Agentic workflows with robust failure handling
+
+## Featured Work
+
+🚧 Building my portfolio - first project launching soon
+
+## How I Work
+
+**Tools:** Claude for ideation & specs → Cursor for development → GitHub for shipping
+
+**Philosophy:** Ship fast, measure everything, learn from what breaks
+
+---
+
+📫 [LinkedIn]https://www.linkedin.com/in/sudipta-tripathy/ | 💼 [Portfolio](coming-soon)
